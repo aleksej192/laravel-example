@@ -8,7 +8,7 @@ set('application', 'laravel-example');
 
 set('repository', 'git@github.com:aleksej192/laravel-example.git');
 
-set('bin/php', '/usr/bin/php8.1');
+set('bin/php', '/usr/bin/php8.0');
 
 set('git_tty', false);
 add('shared_files', [
